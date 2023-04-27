@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qh7Xqvy3Wq+EFucqYOdV6YMFuvcmYCLHyoi2tKvmTPg=",
+  "Source": "book-api-crud",
+  "BasePath": "_content/book-api-crud",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
